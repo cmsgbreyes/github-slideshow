@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to my beautiful cat's slide!"
 ---
-Something new hehe
+This is Sweet Pea's slide!
 Use the left arrow to go back!
